@@ -7,7 +7,7 @@ Module 7 Project 7: Machine Learning
 * An introduction into Machine Learning
 * Linear Regression Anaylsis on Average High Temperatures in NYC from 1895-2018
 
-## datafun-07-ml-predictive guide
+## Datafun-07-ml-predictive guide
 * Task 1 - Chapter 10 Practice + Task 3 - Chapter 10.16 Guided Practice
 * Task 2 - Chapter 15 Practice + Task 3 - 15.4 Guided Practice
 
